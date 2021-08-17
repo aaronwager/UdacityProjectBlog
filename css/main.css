@@ -240,12 +240,18 @@ footer .container {
       padding-bottom: 0;
     }
 
-    .grid-card-container {
+    .blog-page .container {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .grid-inner-container {
       display: flex;
       flex-direction: column;
     }
 
-    .grid-card-container .box > img {
+    .grid-inner-container .box > img {
       max-width: 150px;
       opacity: 0.9;
       border: none;
