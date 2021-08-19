@@ -13,6 +13,10 @@
   color: var(--third-color);
 }
 
+.text-dark {
+  color: var(--dark-color);
+}
+
 .text-underline {
   border-bottom: 4px solid #333;
 }
@@ -21,7 +25,18 @@ h1,
 h2,
 h3 {
   padding: 0.25rem 0.75rem;
+}
+
+h1 {
   font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  font-family: "Lato", "roboto", sans-serif;
+}
+
+h3 {
+  font-family: sans-serif;
 }
 
 a {
