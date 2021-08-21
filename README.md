@@ -10,8 +10,8 @@ You can easily edit the colour scheme by changing the variables colours.
 
 ## CSS Styles
 
-There are two CSS stylesheets in this project.
+There are 4 CSS stylesheets in this project. This was a requirement for the project.
 
-The main style of the project is located in the main.css file, including mobile responsive styles.
+The main style of the project is located in the main.css file.
 
 blog-posts.css includes the styles for the blog page, albeit a small amount.
